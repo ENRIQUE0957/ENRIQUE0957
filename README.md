@@ -11,3 +11,4 @@
 ![image](https://user-images.githubusercontent.com/76191555/146848929-cda25398-bc92-4a43-afab-da64e484233e.png)
 ![image](https://user-images.githubusercontent.com/76191555/146848939-ba9b5791-ab43-48e0-824a-871c9c31897e.png)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
